@@ -27,6 +27,7 @@
       - name: ruby-build
       - name: tmux
       - {name: yarn, install_options: without-node}
+      - name: peco
  
   tasks:
     - name: homebrew update
