@@ -17,6 +17,7 @@
       - name: iterm2
       - name: bettertouchtool
       - name: sequel-pro
+      - name: visual-studio-code
  
     homebrew_packages:
       - name: ansible
