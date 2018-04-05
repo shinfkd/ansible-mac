@@ -29,6 +29,7 @@
       - name: tmux
       - {name: yarn, install_options: without-node}
       - name: peco
+      - name: jq
  
   tasks:
     - name: homebrew update
