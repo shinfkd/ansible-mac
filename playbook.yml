@@ -10,6 +10,7 @@
     homebrew_cask_packages:
       - name: atom
       - name: rubymine
+      - name: phpstorm
       - name: google-chrome
       - name: google-japanese-ime
       - name: firefox
