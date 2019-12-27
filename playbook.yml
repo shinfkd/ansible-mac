@@ -23,6 +23,7 @@
     homebrew_packages:
       - name: ansible
       - name: git
+      - name: zsh
       - name: python
       - name: python3
       - name: rbenv
